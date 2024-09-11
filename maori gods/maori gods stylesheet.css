@@ -1,0 +1,200 @@
+/* This sets the margin and font for the entire page*/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: #333; /* sets the background color of the header to dark gray*/
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+/*this styles the h1 tag in the header */
+h1 { 
+margin-right: auto;
+}
+.logo { 
+    margin-left: 1rem;
+    height: 3rem;
+}
+nav ul{
+    list-style: none;
+    margin: o;
+    padding: o;
+    display: flex;
+}
+
+nav li{
+    margin:0 10px;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+}
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+.shopping-cart{
+    
+/*     margin-left: 1rem;*/
+    height: 50px;
+}
+.english_heading{
+  text-align: center;
+}
+
+.god_mother{
+    text-align: center;
+}
+
+.god-frather{
+    text-align: center;
+}
+
+
+
+.martin{
+      margin-left:290px; 
+       width:350px;
+ 
+}
+
+.welcome{
+    text-align: center;
+    font-size: 2.5rem;
+    background: black;
+    color: white;
+    margin-top: 2px;
+}
+
+.god-of-wind{
+    width: 150px
+}
+
+.wind-god-context{
+    display: flex
+}
+
+.FOREST-god-context{
+        display: flex
+}
+
+ .god-of-FOREST{
+    width: 150px;
+     margin-right:390px
+}
+
+
+.THE-GOD-OF-WAR{
+    width:  150px
+}
+
+.god-of-war{
+    display: flex;
+}
+
+.THE-GOD-OF-THE-SEA{
+    width: 150px
+}
+
+.GOD-OF-THE-SEA{
+    display: flex;
+}
+
+.RONGOMATĀNE-HAUMIATIKETIKE{
+    display: flex;
+}
+
+.THE-GOD-OF-EARTHQUAKES{
+    width: 150px;
+}
+
+.the-god-of-earthquakes{
+    display: flex;
+}
+
+.tital{
+    text-align: center;
+}
+
+.tawhirimatea{
+   margin-left:225px;
+}
+
+
+
+.context{
+    text-align: center;
+        max-width: 1000px;
+    margin: auto;
+}
+
+.windgod{
+    display: flex;
+    margin:0 10px
+}
+
+.maori_heading{
+    font-size: 2.5rem;
+    font-weight; bold;
+    text-align: center;
+    
+}
+
+.god_mother{ 
+    font-size: 1.25rem;
+}
+
+.windpowergrath1{
+    margin:10px
+}
+
+footer{ 
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+#overview p{ 
+    font-size: 24px;
+    line-height: 1.5;
+   
+}
+
+#overview {
+    text-align: left;
+    margin-top: 50px;
+}
+.social-media{
+    list-style: none;
+    margin: o;
+    padding: o;
+    display: flex; 
+}
+
+.social-media li{
+    display: inline-block;
+    margin-right: 10px;
+  
+}
+
+.social-media li img{
+    width: 50px;
+    height: 50px;  
+}
+
+
+
